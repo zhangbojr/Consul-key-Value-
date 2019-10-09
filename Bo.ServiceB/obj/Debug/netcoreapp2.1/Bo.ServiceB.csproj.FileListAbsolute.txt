@@ -1,0 +1,13 @@
+F:\GRPC\Bo.Ocelot\Bo.ServiceB\bin\Debug\netcoreapp2.1\Bo.ServiceB.deps.json
+F:\GRPC\Bo.Ocelot\Bo.ServiceB\bin\Debug\netcoreapp2.1\Bo.ServiceB.runtimeconfig.json
+F:\GRPC\Bo.Ocelot\Bo.ServiceB\bin\Debug\netcoreapp2.1\Bo.ServiceB.runtimeconfig.dev.json
+F:\GRPC\Bo.Ocelot\Bo.ServiceB\bin\Debug\netcoreapp2.1\Bo.ServiceB.dll
+F:\GRPC\Bo.Ocelot\Bo.ServiceB\bin\Debug\netcoreapp2.1\Bo.ServiceB.pdb
+F:\GRPC\Bo.Ocelot\Bo.ServiceB\obj\Debug\netcoreapp2.1\Bo.ServiceB.csproj.CoreCompileInputs.cache
+F:\GRPC\Bo.Ocelot\Bo.ServiceB\obj\Debug\netcoreapp2.1\Bo.ServiceB.RazorAssemblyInfo.cache
+F:\GRPC\Bo.Ocelot\Bo.ServiceB\obj\Debug\netcoreapp2.1\Bo.ServiceB.RazorAssemblyInfo.cs
+F:\GRPC\Bo.Ocelot\Bo.ServiceB\obj\Debug\netcoreapp2.1\Bo.ServiceB.AssemblyInfoInputs.cache
+F:\GRPC\Bo.Ocelot\Bo.ServiceB\obj\Debug\netcoreapp2.1\Bo.ServiceB.AssemblyInfo.cs
+F:\GRPC\Bo.Ocelot\Bo.ServiceB\obj\Debug\netcoreapp2.1\Bo.ServiceB.RazorTargetAssemblyInfo.cache
+F:\GRPC\Bo.Ocelot\Bo.ServiceB\obj\Debug\netcoreapp2.1\Bo.ServiceB.dll
+F:\GRPC\Bo.Ocelot\Bo.ServiceB\obj\Debug\netcoreapp2.1\Bo.ServiceB.pdb
